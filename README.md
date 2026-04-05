@@ -1,1 +1,1 @@
-# icml2026-slerp-rebuttal-figs
+# icml2026-slerp-rebuttal
